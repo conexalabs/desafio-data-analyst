@@ -4,7 +4,7 @@ Quer fazer parte da transformação do campo ~~escrevendo~~ codando o futuro do 
 
 Se deseja participar do nosso processo seletivo, siga as instruções deste desafio e execute os seguintes passos: 
 
-* Nos mande sua resolução em um *pull request* neste repositório.
+* Nos mande sua resolução em um *pull request* neste repositório contendo seu arquivo Jupyter.
 
 * Por último, **caso ainda não esteja cadastrado no processo seletivo**, envie um email para [renatto.machado@hubconexa.com](mailto:renatto.machado@hubconexa.com) com seu CV anexado e o link da aplicação (se já estiver no processo seletivo, não precisa);
 
