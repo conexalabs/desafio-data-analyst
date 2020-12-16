@@ -17,7 +17,7 @@ A equipe da Conexa Labs tem o propósito de tornar o agro mais simples, usando o
 
 
 # O desafio
-Escolha um dos Datasets disponibilisados e aplique técnicas de Análise de dados afim de criar insights que possam gerar valor de negócio.
+Escolha um dos Datasets disponibilisados e aplique técnicas de Análise de dados afim de criar insights que possam gerar algum valor aos dados.
 
 Os datasets disponíveis são:
 - [Venda de Jogos de Digitais](https://www.kaggle.com/gregorut/videogamesales)
@@ -29,7 +29,7 @@ Os datasets disponíveis são:
 1. Elabore e responda 4 perguntas sobre o dataset escolhido;
 2. Realise tratamentos e/ou correções nos dados caso ache necessário;
 3. Apresente uma conclusão sobre os dados analisados;
-4. Caso tenho encontrado fatores limitantes durante a análise, descreva os problemas encontrados e quais foram as soluções adotadas.
+4. Caso tenha encontrado fatores limitantes durante a análise, descreva os problemas encontrados e quais foram as soluções adotadas.
 
 
 ## Requisitos não funcionais
