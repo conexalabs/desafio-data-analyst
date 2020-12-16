@@ -36,8 +36,6 @@ Os datasets disponíveis são:
 
 - Utilize a linguagem Python;
 - Use as bibliotecas com as quais se sinta confortável.
-- Todas as informações relacionadas ao Dataset se encontram em [Titanic](https://www.kaggle.com/pavlofesenko/titanic-extended?select=full.csv)
-
 
 ## Dicas
 
