@@ -17,25 +17,32 @@ A equipe da Conexa Labs tem o propósito de tornar o agro mais simples, usando o
 
 
 # O desafio
-Escolha um dos Datasets disponibilisados e aplique técnicas de Análise de dados afim de criar insights que possam gerar algum valor aos dados.
+Escolha um dos Datasets disponibilisados e aplique técnicas de análise de dados afim de criar insights que possam gerar algum valor aos dados.
 
-Os datasets disponíveis são:
-- [Venda de Jogos de Digitais](https://www.kaggle.com/gregorut/videogamesales)
-- [Passageiros do Titanic](https://www.kaggle.com/pavlofesenko/titanic-extended?select=full.csv) o arquivo a ser análisado é o *full.csv*
+## Dados
+Você poderá encontrar os datasets aqui:\
+[Venda de Jogos de Digitais](data/selling_games.parquet)\
+[Passageiros do Titanic](data/titanic.parquet)
 
+## Catálogo de dados
+[Venda de Jogos de Digitais](docs/selling_games.md)\
+[Passageiros do Titanic](docs/titanic.md)
 
 ## Requisitos
 
 1. Elabore e responda 4 perguntas sobre o dataset escolhido;
 2. Realise tratamentos e/ou correções nos dados caso ache necessário;
-3. Apresente uma conclusão sobre os dados analisados;
-4. Caso tenha encontrado fatores limitantes durante a análise, descreva os problemas encontrados e quais foram as soluções adotadas.
+3. Utilize gráficos para se ter melhor compreensão dos resultados;
+4. Apresente uma conclusão sobre os dados analisados;
+5. Caso tenha encontrado fatores limitantes durante a análise, descreva os problemas encontrados e quais foram as soluções adotadas.
 
 
 ## Requisitos não funcionais
 
 - Utilize a linguagem Python;
-- Use as bibliotecas com as quais se sinta confortável.
+- Estruture o Notebook de forma a contar uma "história";
+- Utilize as bibliotecas com as quais se sinta mais confortável.
+- Por quetão de tempo, utilize técnicas e bibliotecas que já possua domínio, posteriormente, tente aprimorar o script.
 
 ## Dicas
 
