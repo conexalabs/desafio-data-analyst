@@ -2,7 +2,6 @@
 
 Campo | Descrição
 ----- | ---------
-Rank | Classificação das vendas gerais
 Name | Nome do jogo
 Platform | Plataforma de lançamento dos jogos (PC, PS4, etc.)
 Year | Ano de lançamento do jogo
