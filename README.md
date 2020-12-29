@@ -52,6 +52,7 @@ Utilize as bibliotecas [Plotly](https://plotly.com/python/) e/ou [Seaborn](https
 ## Recomendações
 
 * Utilize Python;
+* Utilize o [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) para facilitar o desenvolvimento;
 * Utilize boas práticas de codificação, isso será avaliado;
 * Código limpo, organizado e documentado (quando necessário);
 * Reaproveitamento de código é indispensável;
